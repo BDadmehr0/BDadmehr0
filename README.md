@@ -39,7 +39,7 @@
 </details>
 
  <details>
- <summary> 📝 &nbsp; <i>Most used language</i></summary>
+ <summary> &nbsp; <i>Most used language</i></summary>
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bdadmehr0&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 
 </details>
