@@ -34,14 +34,15 @@
 <details>
   <summary> &nbsp; <i>My Stats</i></summary>
     
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bdadmehr0&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bdadmehr0&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bdadmehr0&show_icons=true&locale=en" alt="bdadmehr0" /></p>
+ <details>
+ <summary> 📝 &nbsp; <i>Most used language</i></summary>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bdadmehr0&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdadmehr0&theme=dark" alt="bdadmehr0" /></p>
-
+</details>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/emamidadmeR"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emamidadmeR" /></a></p><br><br>
