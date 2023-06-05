@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Designing**
 
-- 💬 Ask me about **Python, Flask, Sec**
+- 💬 Ask me about **Python, Flask, security**
 
 - 📫 How to reach me **emamidadmehr@gmail.com**
 
