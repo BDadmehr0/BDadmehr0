@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **emamidadmehr@gmail.com**
 
-- ⚡ Fun fact **Discovering the problem is better than hiding it**
+- ⚡ Fun fact **Google's name was the fruit of a spelling mistake.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
