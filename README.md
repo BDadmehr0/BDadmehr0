@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **emamidadmehr@gmail.com**
 
-- ⚡ Fun fact **Google's name was the fruit of a spelling mistake.**
+- ⚡ Fun fact **It feels good to have started with C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
