@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **emamidadmehr@gmail.com**
 
-- ⚡ Fun fact **It feels good to have started with C++**
+- ⚡ fact **the quieter you become the more you are able to hear**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
