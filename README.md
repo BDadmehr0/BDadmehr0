@@ -34,7 +34,7 @@
 <details>
   <summary> &nbsp; <i>My Stats</i></summary>
     
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bdadmehr0&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=BDadmehr0&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
