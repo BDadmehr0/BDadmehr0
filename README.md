@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Dadmehr</h1>
 <h3 align="center">A passionate Desktop from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bdadmehr0&label=Profile%20views&color=0e75b6&style=flat" alt="bdadmehr0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BDadmehr0&label=Profile%20views&color=0e75b6&style=flat" alt="bdadmehr0" /> </p>
 
 - 🌱 I’m currently learning **Web Designing**
 
@@ -27,20 +27,20 @@
 <details>
   <summary> &nbsp; <i>My Streak</i></summary>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bdadmehr0&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BDadmehr0&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </details>
 
 <details>
   <summary> &nbsp; <i>My Stats</i></summary>
     
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jadijadi&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=BDadmehr0&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
  <details>
  <summary> &nbsp; <i>Most used language</i></summary>
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bdadmehr0&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BDadmehr0&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 
 </details>
 
