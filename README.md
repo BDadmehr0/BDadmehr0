@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dadmehr</h1>
 
----
-
 - 🔭 I’m currently working on [onedns](https://github.com/BDadmehr0/onedns)
 
 - 🌱 I’m currently learning **Django**
