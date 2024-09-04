@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dadmehr</h1>
-<h3 align="center">A Python developer from Iran</h3>
+
+---
 
 - 🔭 I’m currently working on [onedns](https://github.com/BDadmehr0/onedns)
 
