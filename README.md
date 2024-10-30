@@ -5,14 +5,9 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=BDadmehr0&column=10&theme=gruvbox&no-frame=true"/>
-</a>
-
-----
-
-<div>
+  <img width=900 src="https://github-profile-trophy.vercel.app/?username=BDadmehr0&column=10&theme=gruvbox&no-frame=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BDadmehr0&layout=compact" />
-</div>
+</a>
 
 - 🔭 I’m currently working on [MedX](https://github.com/BDadmehr0/MedX)
 
