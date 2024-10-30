@@ -3,8 +3,10 @@
 
 [![An image of @bdadmehr0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bdadmehr0)](https://holopin.io/@bdadmehr0)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BDadmehr0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=BDadmehr0&column=10&theme=gruvbox&no-frame=true"/>
+</a>
 - 🔭 I’m currently working on [MedX](https://github.com/BDadmehr0/MedX)
 
 - 🌱 I’m currently learning **Django**
@@ -25,5 +27,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dadmehr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dadmehr" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bdadmehr0&show_icons=true&locale=en&layout=compact" alt="bdadmehr0" /></p>
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=BDadmehr0&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BDadmehr0&layout=compact" />
+</div>
