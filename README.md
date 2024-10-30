@@ -7,6 +7,13 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=BDadmehr0&column=10&theme=gruvbox&no-frame=true"/>
 </a>
+
+----
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BDadmehr0&layout=compact" />
+</div>
+
 - 🔭 I’m currently working on [MedX](https://github.com/BDadmehr0/MedX)
 
 - 🌱 I’m currently learning **Django**
@@ -27,7 +34,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dadmehr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dadmehr" /></a></p><br><br>
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=BDadmehr0&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BDadmehr0&layout=compact" />
-</div>
