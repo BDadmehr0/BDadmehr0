@@ -3,7 +3,7 @@
 
 [![An image of @bdadmehr0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bdadmehr0)](https://holopin.io/@bdadmehr0)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdadmehr0" alt="bdadmehr0" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=BDadmehr0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [MedX](https://github.com/BDadmehr0/MedX)
 
