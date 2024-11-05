@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dadmehr</h1>
-<h3 align="center">I'm a passionate developer from Iran, working on various projects and contributing to the open-source community. I aim to make technology more accessible, especially for Persian developers. Feel free to explore my repositories and connect with me through my social links!</h3>
 
 [![An image of @bdadmehr0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bdadmehr0)](https://holopin.io/@bdadmehr0)
 
