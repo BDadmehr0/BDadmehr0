@@ -53,9 +53,4 @@ Languages and Tools:
 
 - 📫 Contact Me **garfoxteam@gmail.com**
 
-Support Me:
-<p>
-  <a href="https://www.buymeacoffee.com/dadmehr">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support Dadmehr on Buy Me a Coffee"/>
-  </a>
-</p>
+Support Me:<a href="https://www.buymeacoffee.com/dadmehr"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support Dadmehr on Buy Me a Coffee"/></a>
