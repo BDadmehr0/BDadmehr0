@@ -14,7 +14,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BDadmehr0&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BDadmehr0&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔭 I’m currently working on [MedX](https://github.com/BDadmehr0/MedX)
 
