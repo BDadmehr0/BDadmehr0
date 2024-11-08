@@ -1,7 +1,3 @@
-Here's an enhanced version of your README with added features and a more structured layout. I've included some additional information about you, organized the content, and added sections for more impact.
-
----
-
 # 💫 BDadmehr's GitHub Profile
 
 Hello! I'm **Dadmehr**—a passionate developer and open-source enthusiast. Welcome to my GitHub profile! Here, you’ll find a showcase of my contributions, languages, tools, and some fun metrics about my activity. Let's connect and build something amazing together! 🚀
@@ -69,7 +65,6 @@ Hello! I'm **Dadmehr**—a passionate developer and open-source enthusiast. Welc
 ### 🤝 Let's Connect
 
 - 📫 **Email:** [garfoxteam@gmail.com](mailto:garfoxteam@gmail.com)
-- 📝 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile) *(Add your LinkedIn link if available)*
 
 ---
 
