@@ -25,31 +25,8 @@
   </a>
 </p>
 
----
 
-### 🔭 Currently Working On
-- [MedX](https://github.com/BDadmehr0/MedX)
-
-### 🌱 Currently Learning
-- **Django**
-
-### 🤝 Looking for Help With
-- [terminate](https://github.com/BDadmehr0/terminate)
-
-### 💬 Ask Me About
-- **Django, Python, JavaScript**
-
-### 📫 Contact Me
-- Email: **garfoxteam@gmail.com**
-
----
-
-<h3 align="center">Connect with Me:</h3>
-<p align="center">
-  <a href="https://instagram.com/garfoxteam" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="garfoxteam" height="30" width="40"/>
-  </a>
-</p>
+- 📫 Contact Me **garfoxteam@gmail.com**
 
 ---
 
