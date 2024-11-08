@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dadmehr</h1>
 
-<p align="center">
+<p>
   <a href="https://holopin.io/@bdadmehr0">
-    <img src="https://holopin.me/bdadmehr0" alt="An image of @bdadmehr0's Holopin badges, which is a link to view their full Holopin profile" width="500"/>
+    <img src="https://holopin.me/bdadmehr0" alt="An image of @bdadmehr0's Holopin badges, which is a link to view their full Holopin profile"/>
   </a>
 </p>
 
