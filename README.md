@@ -11,12 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BDadmehr0&column=6&theme=gruvbox&no-frame=true&rank=AAA,AA,A,S,SS,SSS,SECRET" alt="🏆 Github Profile Trophy"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=BDadmehr0&theme=dark&show_icons=true" alt="Dadmehr's GitHub Stats"/>
   </a>
@@ -25,8 +19,11 @@
   </a>
 </p>
 
-
-- 📫 Contact Me **garfoxteam@gmail.com**
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=BDadmehr0&column=6&theme=gruvbox&no-frame=true&rank=AAA,AA,A,S,SS,SSS,SECRET" alt="🏆 Github Profile Trophy"/>
+  </a>
+</p>
 
 ---
 
@@ -54,8 +51,10 @@
 
 ---
 
-<h3 align="center">Support Me:</h3>
-<p align="center">
+- 📫 Contact Me **garfoxteam@gmail.com**
+
+Support Me:
+<p>
   <a href="https://www.buymeacoffee.com/dadmehr">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support Dadmehr on Buy Me a Coffee"/>
   </a>
