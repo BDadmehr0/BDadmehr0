@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BDadmehr0&theme=github-compact" alt="Dadmehr's Activity Graph"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=BDadmehr0&column=6&theme=gruvbox&no-frame=true&rank=AAA,AA,A,S,SS,SSS,SECRET" alt="🏆 Github Profile Trophy"/>
   </a>
@@ -16,12 +22,6 @@
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=BDadmehr0&layout=compact&langs_count=8&card_width=320&theme=dark" alt="Dadmehr's Top Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BDadmehr0&theme=github-compact" alt="Dadmehr's Activity Graph" width="800"/>
   </a>
 </p>
 
