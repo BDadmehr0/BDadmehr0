@@ -65,6 +65,7 @@ Hello! I'm **Dadmehr**—a passionate developer and open-source enthusiast. Welc
 ### 🤝 Let's Connect
 
 - 📫 **Email:** [garfoxteam@gmail.com](mailto:garfoxteam@gmail.com)
+- 🚀 **Telegram** [@faststrong](https://t.me/faststrong)
 
 ---
 
