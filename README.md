@@ -1,9 +1,3 @@
-# 💫 BDadmehr's GitHub Profile
-
-Hello! I'm **Dadmehr**—a passionate developer and open-source enthusiast. Welcome to my GitHub profile! Here, you’ll find a showcase of my contributions, languages, tools, and some fun metrics about my activity. Let's connect and build something amazing together! 🚀
-
----
-
 ### 🎖️ Holopin Badges
 
 <a href="https://holopin.io/@bdadmehr0">
