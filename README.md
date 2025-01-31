@@ -34,7 +34,7 @@
 ### 🔧 Languages & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/refs/heads/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" width="70" />
+  <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/refs/heads/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" height="70" />
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="70" height="70"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70"/>
