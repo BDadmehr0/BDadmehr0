@@ -39,11 +39,11 @@
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70"/>
 
-  <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="70" height="70"/> 
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="70" height="70"/><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="70" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="70" height="70"/>
-
+  <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="100" height="70"/> 
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="70" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" width="70" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="70" height="70"/>
