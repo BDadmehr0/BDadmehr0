@@ -54,7 +54,7 @@
   <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="70" height="70"/>
 
   <img src="https://hacktoberfest.com/_next/static/media/favicon.25a5e6eb.svg" width="70" height="70"/>
-  <img src="https://www.google.com/favicon.ico" width="70" height="70"/>
+  <img src="https://www.svgrepo.com/download/303108/google-icon-logo.svg" width="70" height="70"/>
 </p>
 
 
