@@ -49,7 +49,6 @@
 
   <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="70" height="70"/> 
   <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" width="70" height="70"/>
-  <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" height="70"/> 
 
   <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" width="70" height="70"/> 
   <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="70" height="70"/>
