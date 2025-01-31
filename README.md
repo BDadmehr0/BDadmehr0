@@ -82,4 +82,4 @@ If you enjoy my work and want to support me, you can buy me a coffee!
 
 ---
 
-*Thank you for visiting my profile! Looking forward to collaborating on exciting projects. Check back for updates!*
+*Thank you for visiting my profile!
