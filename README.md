@@ -34,25 +34,30 @@
 ### 🔧 Languages & Tools
 
 <p align="center">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="55" height="55"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70"/>
-  </a>
+  <!-- بخش افقی -->
+  <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/refs/heads/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" width="150" style="transform: rotate(10deg);"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50" style="transform: rotate(-15deg);"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="70" height="70" style="transform: rotate(5deg);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" style="transform: rotate(-20deg);"/>
+
+  <!-- بخش عمودی -->
+  <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="100" style="transform: rotate(7deg);"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="65" height="65" style="transform: rotate(-10deg);"/><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" style="transform: rotate(15deg);"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="70" height="70" style="transform: rotate(-5deg);"/>
+
+  <!-- بخش افقی دیگر -->
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="55" height="55" style="transform: rotate(12deg);"/>
+  <img src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" width="50" height="50" style="transform: rotate(-8deg);"/>
+  <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="65" height="65" style="transform: rotate(3deg);"/>
+
+  <!-- ترکیب افقی و عمودی -->
+  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="55" height="55" style="transform: rotate(-12deg);"/> 
+  <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" width="50" height="50" style="transform: rotate(9deg);"/>
+  <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" width="45" height="45" style="transform: rotate(-7deg);"/> 
+  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="60" height="60" style="transform: rotate(4deg);"/>
 </p>
+
 
 
 ---
