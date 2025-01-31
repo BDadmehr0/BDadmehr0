@@ -34,29 +34,29 @@
 ### 🔧 Languages & Tools
 
 <p align="center">
-  <!-- بخش افقی -->
-  <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/refs/heads/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" width="150" style="transform: rotate(10deg);"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50" style="transform: rotate(-15deg);"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="70" height="70" style="transform: rotate(5deg);"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" style="transform: rotate(-20deg);"/>
+  <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/refs/heads/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" width="70" height="70"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="70" height="70"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70"/>
 
-  <!-- بخش عمودی -->
-  <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="100" style="transform: rotate(7deg);"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="65" height="65" style="transform: rotate(-10deg);"/><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" style="transform: rotate(15deg);"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="70" height="70" style="transform: rotate(-5deg);"/>
+  <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="70" height="70"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="70" height="70"/><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="70" height="70"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="70" height="70"/>
 
-  <!-- بخش افقی دیگر -->
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="55" height="55" style="transform: rotate(12deg);"/>
-  <img src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" width="50" height="50" style="transform: rotate(-8deg);"/>
-  <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="65" height="65" style="transform: rotate(3deg);"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="70" height="70"/>
+  <img src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" width="70" height="70"/>
+  <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="70" height="70"/>
 
-  <!-- ترکیب افقی و عمودی -->
-  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="55" height="55" style="transform: rotate(-12deg);"/> 
-  <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" width="50" height="50" style="transform: rotate(9deg);"/>
-  <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" width="45" height="45" style="transform: rotate(-7deg);"/> 
-  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="60" height="60" style="transform: rotate(4deg);"/>
+  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="70" height="70"/> 
+  <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" width="70" height="70"/>
+  <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" width="70" height="70"/> 
+  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="70" height="70"/>
+
+  <img src="https://hacktoberfest.com/_next/static/media/favicon.25a5e6eb.svg" width="70" height="70"/>
+  <img src="https://www.google.com/favicon.ico" width="70" height="70"/>
 </p>
+
 
 
 
