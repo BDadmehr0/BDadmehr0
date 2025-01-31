@@ -31,7 +31,7 @@
 
 ---
 
-### 🔧 Languages & Tools
+### 🏷️ Labels
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/refs/heads/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" height="70" />
