@@ -43,7 +43,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="70" height="70"/><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="70" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="70" height="70"/>
-  <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="70" height="70"/> 
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="70" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" width="70" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="70" height="70"/>
@@ -53,6 +52,7 @@
   <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" width="70" height="70"/> 
   <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="70" height="70"/>
   <br>
+  <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="70" height="70"/> 
   <img src="https://hacktoberfest.com/_next/static/media/favicon.25a5e6eb.svg" width="70" height="70"/>
   <img src="https://www.svgrepo.com/download/303108/google-icon-logo.svg" width="70" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/nasa/nasa-icon.svg" width="70" height="70"/>
