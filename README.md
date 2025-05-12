@@ -31,34 +31,99 @@
 
 ---
 
-### 🏷️ Labels
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/refs/heads/master/Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" height="70" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="70" height="70"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70"/>
-
-  <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="70" height="70"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="70" height="70"/><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="70" height="70"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="70" height="70"/>
-
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="70" height="70"/>
-  <img src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" width="70" height="70"/>
-  <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="70" height="70"/>
-
-  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="70" height="70"/> 
-  <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" width="70" height="70"/>
-  <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" width="70" height="70"/> 
-  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="70" height="70"/>
-  <br>
-  <img src="https://hacktoberfest.com/_next/static/media/favicon.25a5e6eb.svg" width="70" height="70"/>
-  <img src="https://www.svgrepo.com/download/303108/google-icon-logo.svg" width="70" height="70"/>
-  <img src="https://www.vectorlogo.zone/logos/nasa/nasa-icon.svg" width="70" height="70"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg" width="70" height="70"/>  
-</p>
-
+### 📟 Languages, Database, Tools :
+<div>
+  <a href="https://python.org">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://go.dev">
+    <img src="https://skillicons.dev/icons?i=go" />
+  </a>
+  <a href="https://lua.org">
+    <img src="https://skillicons.dev/icons?i=lua" />
+  </a>
+  <a href="https://nodejs.org">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://javascript.com">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://typescriptlang.org">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <a href="https://getbootstrap.com">
+    <img src="https://skillicons.dev/icons?i=bootstrap" >
+  </a>
+  <a href="https://htmx.org">
+    <img src="https://skillicons.dev/icons?i=htmx" />
+  </a>
+  <a href="https://fastapi.tiangolo.com">
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+  </a>
+  <a href="https://flask.palletsprojects.com">
+    <img src="https://skillicons.dev/icons?i=flask" />
+  </a>
+  <img src="https://skillicons.dev/icons?i=regex" />
+  <a href="https://lesscss.org">
+    <img src="https://skillicons.dev/icons?i=less" />
+  </a>
+  <a href="https://redis.io">
+    <img src="https://skillicons.dev/icons?i=redis" />
+  </a>
+  <a href="https://mongodb.com">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+  <a href="https://postgresql.org">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+  <a href="https://mysql.com">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://sqlite.org">
+    <img src="https://skillicons.dev/icons?i=sqlite" />
+  </a>
+  <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://gitlab.com">
+    <img src="https://skillicons.dev/icons?i=gitlab" />
+  </a>
+  <a href="https://docker.com">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+  <a href="https://kafka.apache.org">
+    <img src="https://skillicons.dev/icons?i=kafka" />
+  </a>
+  <a href="https://nginx.org">
+    <img src="https://skillicons.dev/icons?i=nginx" />
+  </a>
+  <a href="https://cloudflare.com">
+    <img src="https://skillicons.dev/icons?i=cloudflare" />
+  </a>
+  <a href="https://linux.org">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+  <a href="https://kali.org/">
+    <img src="https://skillicons.dev/icons?i=kali" />
+  </a>
+  <a href="https://archlinux.org">
+    <img src="https://skillicons.dev/icons?i=arch" />
+  </a>
+  <a href="https://bash.com">
+    <img src="https://skillicons.dev/icons?i=bash" />
+  </a>
+  <a href="https://vim.org">
+    <img src="https://skillicons.dev/icons?i=vim" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+</div>
 ---
 
 ### 🤝 Let's Connect
