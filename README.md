@@ -36,15 +36,6 @@
   <a href="https://python.org">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
-  <a href="https://go.dev">
-    <img src="https://skillicons.dev/icons?i=go" />
-  </a>
-  <a href="https://lua.org">
-    <img src="https://skillicons.dev/icons?i=lua" />
-  </a>
-  <a href="https://nodejs.org">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
   <a href="https://javascript.com">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
@@ -74,12 +65,6 @@
   </a>
   <a href="https://mongodb.com">
     <img src="https://skillicons.dev/icons?i=mongodb" />
-  </a>
-  <a href="https://postgresql.org">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-  </a>
-  <a href="https://mysql.com">
-    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
   <a href="https://sqlite.org">
     <img src="https://skillicons.dev/icons?i=sqlite" />
