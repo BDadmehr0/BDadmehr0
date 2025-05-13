@@ -31,7 +31,7 @@
 
 ---
 
-### 📟 Languages, Database, Tools :
+### 📟 Languages, Database, Tools
 <div>
   <a href="https://python.org">
     <img src="https://skillicons.dev/icons?i=python" />
