@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BDadmehr0&column=6&theme=gruvbox&no-frame=true&rank=AAA,AA,S,SS,SSS,SECRET" alt="🏆 Github Profile Trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=BDadmehr0&column=6&theme=gruvbox&no-frame=true&rank=AAA,S,SS,SSS,SECRET" alt="🏆 Github Profile Trophy"/>
   </a>
 </p>
 
