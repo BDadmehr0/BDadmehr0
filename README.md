@@ -33,12 +33,6 @@
   <a href="https://python.org">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
-  <a href="https://javascript.com">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://typescriptlang.org">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <a href="https://getbootstrap.com">
@@ -75,12 +69,6 @@
   <a href="https://gitlab.com">
     <img src="https://skillicons.dev/icons?i=gitlab" />
   </a>
-  <a href="https://docker.com">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-  <a href="https://kafka.apache.org">
-    <img src="https://skillicons.dev/icons?i=kafka" />
-  </a>
   <a href="https://nginx.org">
     <img src="https://skillicons.dev/icons?i=nginx" />
   </a>
@@ -89,9 +77,6 @@
   </a>
   <a href="https://linux.org">
     <img src="https://skillicons.dev/icons?i=linux" />
-  </a>
-  <a href="https://kali.org/">
-    <img src="https://skillicons.dev/icons?i=kali" />
   </a>
   <a href="https://archlinux.org">
     <img src="https://skillicons.dev/icons?i=arch" />
@@ -104,6 +89,9 @@
   </a>
   <a href="https://code.visualstudio.com">
     <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://skillicons.dev/icons?i=c" />
   </a>
 </div>
 
