@@ -48,9 +48,6 @@
     <img src="https://skillicons.dev/icons?i=flask" />
   </a>
   <img src="https://skillicons.dev/icons?i=regex" />
-  <a href="https://lesscss.org">
-    <img src="https://skillicons.dev/icons?i=less" />
-  </a>
   <a href="https://redis.io">
     <img src="https://skillicons.dev/icons?i=redis" />
   </a>
