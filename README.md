@@ -4,13 +4,11 @@
   <img src="https://holopin.me/bdadmehr0" alt="An image of @bdadmehr0's Holopin badges, which is a link to view their full Holopin profile"/>
 </a>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=BDadmehr0&column=6&theme=gruvbox&no-frame=true&rank=AAA,S,SS,SSS,SECRET" alt="🏆 Github Profile Trophy"/>
   </a>
-</p> -->
-
-https://github-profile-trophy.vercel.app/?username=BDadmehr0&theme=oldie
+</p>
 
 ### 🤝 Let's Connect
 
